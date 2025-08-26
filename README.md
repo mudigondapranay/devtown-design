@@ -83,6 +83,12 @@ devtown-design/
 - Assets exported using Figma's native export functionality
 - Repository structure follows design system best practices
 
+## Showcased on Behance
+
+🎨 **[View DevTown Design Project on Behance](https://www.behance.net/gallery/devtown-design)**
+
+This comprehensive design system for DevTown has been showcased on Behance, featuring complete UI/UX design assets, brand identity elements, and development-ready specifications. The Behance project demonstrates the full design process, from initial concepts to final asset exports, highlighting modern design principles, systematic approach to design systems, and the complete toolkit provided for developers and designers working on the DevTown project.
+
 ## License
 
 This project and its contents are proprietary. Please refer to your organization's licensing guidelines for usage rights.
