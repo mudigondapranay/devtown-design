@@ -1,0 +1,24 @@
+# DevTown Design Assets - Logos Directory
+
+This directory contains brand logos in various formats for the DevTown project.
+
+## Contents
+- Brand logos in PNG format (high resolution)
+- Brand logos in SVG format (scalable vector)
+- Brand logos in PDF format (print ready)
+- Logo variants (light/dark themes)
+- Logo usage guidelines
+
+## File Naming Convention
+- `devtown-logo-primary.[ext]` - Main brand logo
+- `devtown-logo-secondary.[ext]` - Secondary logo variant
+- `devtown-logo-icon.[ext]` - Icon-only version
+- `devtown-logo-text.[ext]` - Text-only version
+- `devtown-logo-light.[ext]` - Light theme variant
+- `devtown-logo-dark.[ext]` - Dark theme variant
+
+## Usage Notes
+- Maintain minimum clear space around logos
+- Use appropriate format for medium (web vs print)
+- Follow brand guidelines for color and sizing
+- Test logos across different backgrounds
