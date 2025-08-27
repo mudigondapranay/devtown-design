@@ -1,107 +1,112 @@
-# DevTown Design Assets
+# 🚀 DevTown UI Design System
 
-Complete Figma design assets for DevTown – includes high-res PNG, SVG, PDF, and specs. Ready for development and UI implementation.
-
-## Overview
-
-This repository contains the complete design system and assets for the DevTown project. All assets have been exported from Figma in multiple formats to support various development needs, including web development, mobile applications, and print materials.
-
-## Features
-
-✨ **High-Quality Assets**: All designs exported in high-resolution formats  
-🎨 **Multiple Formats**: PNG, SVG, and PDF formats available  
-📱 **Responsive Design**: Assets optimized for various screen sizes  
-🔧 **Development Ready**: Includes specifications and implementation notes  
-📋 **Organized Structure**: Intuitive folder structure for easy navigation  
-📖 **Comprehensive Documentation**: Detailed usage guidelines and specifications  
-
-## Repository Structure
-
-```
-devtown-design/
-├── assets/
-│   ├── logos/           # Brand logos in various formats
-│   └── icons/           # Icon sets and individual icons
-├── screens/
-│   ├── png/             # Screen designs in PNG format
-│   ├── svg/             # Screen designs in SVG format
-│   └── pdf/             # Screen designs in PDF format
-├── documentation/       # Design specifications and guidelines
-└── README.md           # This file
-```
-
-## Usage Guidelines
-
-### For Designers
-
-1. **Asset Organization**: All design files are organized by type and format
-2. **Version Control**: Use this repository to track design changes and updates
-3. **Collaboration**: Create branches for experimental designs or major revisions
-4. **Documentation**: Update specs in the documentation folder when making changes
-
-### For Developers
-
-1. **Asset Integration**: Use the appropriate format for your platform:
-   - **SVG**: For web applications (scalable, small file size)
-   - **PNG**: For applications requiring raster images
-   - **PDF**: For print materials or high-quality exports
-
-2. **Implementation Notes**:
-   - Check the documentation folder for detailed specifications
-   - Maintain aspect ratios when resizing assets
-   - Use provided color codes and typography specifications
-   - Follow responsive breakpoints outlined in the design specs
-
-3. **Best Practices**:
-   - Always use the latest version of assets from the main branch
-   - Test assets across different devices and screen sizes
-   - Optimize assets for your specific platform requirements
-
-## Color Palette
-
-*Colors and specifications will be detailed in the documentation folder*
-
-## Typography
-
-*Typography guidelines and font specifications will be detailed in the documentation folder*
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/design-update`)
-3. Commit your changes (`git commit -am 'Add new design components'`)
-4. Push to the branch (`git push origin feature/design-update`)
-5. Create a Pull Request
-
-## Version History
-
-- **v1.0.0** - Initial design asset release
-
-## Attribution
-
-- Design created with Figma
-- Assets exported using Figma's native export functionality
-- Repository structure follows design system best practices
-
-## Showcased on Behance
-
-🎨 **[View DevTown Design Project on Behance](https://www.behance.net/gallery/devtown-design)**
-
-This comprehensive design system for DevTown has been showcased on Behance, featuring complete UI/UX design assets, brand identity elements, and development-ready specifications. The Behance project demonstrates the full design process, from initial concepts to final asset exports, highlighting modern design principles, systematic approach to design systems, and the complete toolkit provided for developers and designers working on the DevTown project.
-
-## License
-
-This project and its contents are proprietary. Please refer to your organization's licensing guidelines for usage rights.
-
-## Support
-
-For questions about these design assets or implementation guidance, please:
-
-1. Check the documentation folder for detailed specifications
-2. Open an issue in this repository for design-related questions
-3. Contact the design team for clarification on implementation details
+Welcome to the **DevTown UI Design System repository** — a complete, ready-to-deploy asset kit for DevTown’s next-gen educational platform. Designed with futuristic aesthetics, recognition from industry partners, and a focus on learner engagement.
 
 ---
 
-**Last Updated**: August 2025  
-**Maintained by**: DevTown Design Team
+### 🌐 Project Overview
+
+This repo contains the polished, production-ready UI assets for the DevTown platform—a powerful bootcamp and training workspace for ambitious learners.
+
+- **Figma-crafted, pixel-perfect design system**
+- **Exported PNGs for immediate integration**
+- **Recognized by StartupIndia and Wipro Limited**
+- **Responsive, accessibility-first layouts**
+- **Branded for trust, clarity, and education at scale**
+
+---
+
+### 📸 Screenshots
+
+<div align="center">
+
+**Landing Page 1**
+
+![DevTown Landing 1](devtown-landing-1.png)
+
+**Landing Page 2**
+
+![DevTown Landing 2](devtown-landing-2.png)
+
+**Landing Page 3**
+
+![DevTown Landing 3](devtown-landing-3.png)
+
+</div>
+
+---
+
+### ⚡ Features
+
+- **7-Day Free Bootcamps**  
+  Accessible learning—get started instantly.
+
+- **Explore Courses**  
+  Interactive course catalog infused with modern UI and powerful CTAs.
+
+- **Official Certificate Recognition**  
+  Direct partnership and credentials from *StartupIndia* and *Wipro*.
+
+- **Statistics that Matter**  
+  Real numbers: user impact, courses completed, mentors, and industry experts.
+
+- **Live Testimonials & Community**  
+  See user success stories and learn from the best instructors worldwide.
+
+- **Future-Proof & Modular**  
+  Assets optimized for web, mobile, and expansion as DevTown evolves.
+
+---
+
+### 🛠️ Repository Structure
+devtown-design/
+├── assets/
+│ └── logos/ # Brand and partner logos
+├── screens/
+│ └── png/
+│ ├── devtown-landing-1.png
+│ ├── devtown-landing-2.png
+│ └── devtown-landing-3.png
+└── README.md
+
+
+---
+
+### 👤 Credits
+
+- **Design & Repository Owner:** [Pranay Kumar](https://github.com/mudigondapranay)
+  - [Behance Portfolio](https://www.behance.net/pranaykumar23)
+  - [LinkedIn](https://www.linkedin.com/in/mudigondapranay/)
+
+**Assets designed in Figma and exported for pixel-perfect implementation.**
+
+---
+
+### 🔗 Related Projects
+
+- [DevTown UI Website Design — Behance](https://www.behance.net/pranaykumar23)
+- DevTown Registration Figma Kit (private; contact for access)
+- Collaboration inquiries welcome!
+
+---
+
+### 🤝 Contribution & License
+
+Interested in collaborating or suggesting improvements?  
+Open an issue or submit a pull request.
+
+This project and its contents are proprietary.  
+Usage is subject to DevTown's licensing terms.
+
+---
+
+### 📬 Contact
+
+For questions or partnership opportunities, please connect via [GitHub Issues](https://github.com/mudigondapranay/devtown-design/issues)  
+or [LinkedIn](https://www.linkedin.com/in/mudigondapranay/).
+
+---
+
+> **Empowering a new era of learning through design.**  
+> _Last updated: August 2025_
+
